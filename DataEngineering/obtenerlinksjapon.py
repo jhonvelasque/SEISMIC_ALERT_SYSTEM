@@ -5,12 +5,18 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.action_chains import ActionChains
-i
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
 # Configurar el límite de caracteres a mostrar
+options = Options()
+options.add_argument("--headless")  # Ejecutar en modo headless (sin ventana)
+service = Service('str/chromedriver')  # Reemplaza con la ubicación de tu archivo chromedriver
+
 pd.set_option('display.max_colwidth', None)
 
 # Configurar Selenium
-driver = webdriver.Chrome()  # Cambia esto al controlador del navegador que estés utilizando
+driver = webdriver.Chrome(service=service, options=options)
 
 # Abrir la página
 url = 'https://www.data.jma.go.jp/multi/quake/index.html?lang=es'
@@ -97,4 +103,4 @@ for index, row in df_enlaces.iterrows():
 # Concatenar los DataFrames en uno nuevo
 new_df = pd.concat(dfs, ignore_index=True)
 
-# Imprimir el nuevo DataFrame resultante
+new_df.to_csv('DataEngineering/str/data_actualizadajapon.csv')

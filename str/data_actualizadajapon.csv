@@ -1,0 +1,294 @@
+,Fecha detectado el terremoto,longitud,latitud,Magnitud,profundidad,lugar
+0,2023/05/22 13:18,29.9N,130.0E,2.5,Poco profundo,Mares cercanos de Islas Tokara
+1,2023/05/22 12:10,34.5N,139.2E,3.0,10km,"Mares cercanas de Isla Niijima, Kozujima"
+2,2023/05/22 11:47,34.5N,139.2E,2.9,10km,"Mares cercanas de Isla Niijima, Kozujima"
+3,2023/05/22 10:54,34.5N,139.3E,2.8,10km,"Mares cercanas de Isla Niijima, Kozujima"
+4,2023/05/22 10:53,34.5N,139.2E,4.0,10km,"Mares cercanas de Isla Niijima, Kozujima"
+5,2023/05/22 09:56,37.5N,137.2E,2.2,10km,"Región Noto, Prefectura de Ishikawa"
+6,2023/05/22 09:52,37.5N,137.3E,3.0,20km,"Región Noto, Prefectura de Ishikawa"
+7,2023/05/22 09:38,37.5N,137.2E,2.5,10km,"Región Noto, Prefectura de Ishikawa"
+8,2023/05/22 08:19,37.8N,141.7E,4.1,60km,Alta mar de Prefectura de Fukushima
+9,2023/05/22 07:47,37.5N,137.3E,1.7,Poco profundo,"Región Noto, Prefectura de Ishikawa"
+10,2023/05/22 07:20,29.8N,129.5E,5.4,190km,Mares cercanos de Islas Tokara
+11,2023/05/22 00:20,37.6N,137.3E,4.0,10km,Alta mar de Península de Noto
+12,2023/05/21 23:31,30.0N,130.0E,2.2,Poco profundo,Mares cercanos de Islas Tokara
+13,2023/05/21 20:52,29.9N,130.1E,2.3,10km,Mares cercanos de Islas Tokara
+14,2023/05/21 20:14,37.5N,137.3E,2.8,10km,"Región Noto, Prefectura de Ishikawa"
+15,2023/05/21 18:40,43.6N,146.6E,4.7,30km,Alta mar este de Hokkaido
+16,2023/05/21 17:01,29.9N,130.0E,2.7,20km,Mares cercanos de Islas Tokara
+17,2023/05/21 16:03,37.2N,141.4E,3.7,20km,Alta mar de Prefectura de Fukushima
+18,2023/05/21 15:21,36.1N,137.7E,2.7,10km,Centro de Prefectura de Nagano
+19,2023/05/21 11:22,39.6N,142.1E,3.6,50km,Alta mar de Prefectura de Iwate
+20,2023/05/21 10:38,40.7N,141.2E,2.9,10km,"Región de Sanpachi-Kamikita, Prefectura de Aomori"
+21,2023/05/21 04:37,35.9N,140.5E,3.7,40km,Nodeste de Prefectura de Chiba
+22,2023/05/21 03:46,37.5N,137.3E,2.2,10km,"Región Noto, Prefectura de Ishikawa"
+23,2023/05/21 02:26,34.0N,135.1E,2.7,10km,Canal de Kii
+24,2023/05/20 23:11,34.9N,140.2E,4.2,80km,Alta mar sudeste de Prefectura de Chiba
+25,2023/05/20 10:51,23.1S,170.4E,7.1,La profundidad no está confirmada,Pacífico Meridional
+26,2023/05/20 12:21,30.0N,130.1E,2.1,Poco profundo,Mares cercanos de Islas Tokara
+27,2023/05/20 11:27,29.9N,130.0E,2.3,Poco profundo,Mares cercanos de Islas Tokara
+28,2023/05/20 04:13,39.7N,144.5E,5.4,10km,Alta mar de Sanriku
+29,2023/05/20 00:58,24.3N,123.0E,3.3,50km,Mares cercanos de Isla Yonaguni
+30,2023/05/19 11:57,23.2S,170.7E,7.7,La profundidad no está confirmada,Pacífico Meridional
+31,2023/05/19 13:28,29.9N,130.1E,2.1,10km,Mares cercanos de Islas Tokara
+32,2023/05/19 06:56,33.2N,132.2E,4.4,50km,Canal de Bongo
+33,2023/05/19 05:32,34.9N,135.5E,2.3,10km,Norte de Prefectura de Osaka
+34,2023/05/19 04:05,35.7N,141.0E,3.3,20km,Alta mar este de Prefectura de Chiba
+35,2023/05/18 19:49,37.5N,137.3E,3.6,10km,"Región Noto, Prefectura de Ishikawa"
+36,2023/05/17 22:29,37.5N,137.2E,2.5,10km,"Región Noto, Prefectura de Ishikawa"
+37,2023/05/17 20:57,24.7N,125.4E,3.4,50km,Mares cercanos de Isla Miyako
+38,2023/05/17 19:46,29.9N,130.1E,2.3,10km,Mares cercanos de Islas Tokara
+39,2023/05/17 14:29,29.9N,130.1E,2.7,10km,Mares cercanos de Islas Tokara
+40,2023/05/17 14:24,24.8N,125.2E,3.7,20km,Mares cercanos de Isla Miyako
+41,2023/05/17 11:26,29.9N,130.0E,3.1,10km,Mares cercanos de Islas Tokara
+42,2023/05/16 20:56,33.4N,139.3E,4.7,10km,Mares cercanos de Isla de Hachijyo
+43,2023/05/16 20:35,29.9N,130.0E,1.9,30km,Mares cercanos de Islas Tokara
+44,2023/05/16 20:29,38.9N,141.6E,3.3,60km,Norte de Prefectura de Miyagi
+45,2023/05/16 15:49,30.0N,129.9E,1.9,10km,Mares cercanos de Islas Tokara
+46,2023/05/16 15:22,29.9N,130.0E,2.6,10km,Mares cercanos de Islas Tokara
+47,2023/05/16 14:49,36.8N,140.6E,2.7,10km,Norte de Prefectura de Ibaraki
+48,2023/05/16 14:46,30.0N,129.9E,1.8,Poco profundo,Mares cercanos de Islas Tokara
+49,2023/05/16 01:46,30.0N,129.9E,2.8,10km,Mares cercanos de Islas Tokara
+50,2023/05/16 01:34,29.9N,130.1E,3.3,10km,Mares cercanos de Islas Tokara
+51,2023/05/15 22:36,29.8N,129.9E,2.8,Poco profundo,Mares cercanos de Islas Tokara
+52,2023/05/15 17:31,33.4N,132.2E,3.2,50km,Canal de Bongo
+53,2023/05/15 17:06,30.0N,130.0E,2.6,10km,Mares cercanos de Islas Tokara
+54,2023/05/15 14:03,35.1N,132.8E,3.5,10km,Este de Prefectura de Shimane
+55,2023/05/15 12:57,37.5N,137.2E,2.7,10km,"Región Noto, Prefectura de Ishikawa"
+56,2023/05/15 12:54,37.5N,137.3E,3.2,10km,"Región Noto, Prefectura de Ishikawa"
+57,2023/05/15 12:21,27.2N,126.8E,4.2,120km,Alta mar noroeste de Isla principal de Okunawa
+58,2023/05/15 09:04,37.5N,137.2E,2.9,10km,"Región Noto, Prefectura de Ishikawa"
+59,2023/05/15 07:00,44.9N,148.6E,4.7,140km,Alta mar Sudeste de Isla de etorofu
+60,2023/05/15 06:09,29.9N,130.0E,1.9,20km,Mares cercanos de Islas Tokara
+61,2023/05/15 06:06,44.8N,142.1E,1.5,Poco profundo,Norte de región Kamikawa
+62,2023/05/15 01:23,33.4N,139.3E,5.2,10km,Mares cercanos de Isla de Hachijyo
+63,2023/05/15 00:09,29.9N,130.0E,2.2,Poco profundo,Mares cercanos de Islas Tokara
+64,2023/05/14 23:21,33.3N,139.3E,4.8,10km,Mares cercanos de Isla de Hachijyo
+65,2023/05/14 23:03,33.3N,139.3E,5.4,10km,Mares cercanos de Isla de Hachijyo
+66,2023/05/14 22:56,33.3N,139.4E,5.0,10km,Mares cercanos de Isla de Hachijyo
+67,2023/05/14 22:48,29.9N,130.0E,2.6,20km,Mares cercanos de Islas Tokara
+68,2023/05/14 20:29,33.4N,139.4E,4.7,10km,Mares cercanos de Isla de Hachijyo
+69,2023/05/14 19:11,33.4N,139.3E,5.9,10km,Mares cercanos de Isla de Hachijyo
+70,2023/05/14 17:44,33.0N,139.0E,5.3,10km,Mares cercanos de Isla de Hachijyo
+71,2023/05/14 17:21,33.3N,139.2E,5.9,10km,Mares cercanos de Isla de Hachijyo
+72,2023/05/14 17:12,33.4N,139.3E,5.6,10km,Mares cercanos de Isla de Hachijyo
+73,2023/05/14 16:03,33.3N,139.3E,4.7,10km,Mares cercanos de Isla de Hachijyo
+74,2023/05/14 12:35,30.0N,130.0E,1.8,Poco profundo,Mares cercanos de Islas Tokara
+75,2023/05/14 08:52,38.3N,140.5E,2.8,10km,Centro de Prefectura de Miyagi
+76,2023/05/14 08:33,29.9N,130.0E,3.2,10km,Mares cercanos de Islas Tokara
+77,2023/05/14 07:41,29.9N,130.0E,2.6,10km,Mares cercanos de Islas Tokara
+78,2023/05/14 07:05,30.0N,130.0E,2.0,10km,Mares cercanos de Islas Tokara
+79,2023/05/14 06:30,29.9N,130.0E,2.7,10km,Mares cercanos de Islas Tokara
+80,2023/05/14 02:18,26.7N,142.6E,4.5,20km,Mares cercanos de Isla Chichishima
+81,2023/05/14 02:03,29.9N,130.0E,2.0,Poco profundo,Mares cercanos de Islas Tokara
+82,2023/05/14 00:36,29.9N,130.0E,2.5,10km,Mares cercanos de Islas Tokara
+83,2023/05/14 00:09,29.9N,130.0E,3.1,10km,Mares cercanos de Islas Tokara
+84,2023/05/13 22:59,29.9N,130.0E,1.9,10km,Mares cercanos de Islas Tokara
+85,2023/05/13 22:11,29.9N,130.0E,2.2,10km,Mares cercanos de Islas Tokara
+86,2023/05/13 19:51,30.0N,129.9E,2.3,10km,Mares cercanos de Islas Tokara
+87,2023/05/13 19:47,30.0N,130.0E,1.9,10km,Mares cercanos de Islas Tokara
+88,2023/05/13 19:45,37.5N,137.1E,2.5,10km,Alta mar de Península de Noto
+89,2023/05/13 19:01,29.9N,130.0E,2.5,10km,Mares cercanos de Islas Tokara
+90,2023/05/13 17:57,29.9N,130.0E,2.0,20km,Mares cercanos de Islas Tokara
+91,2023/05/13 17:51,29.9N,130.0E,2.3,10km,Mares cercanos de Islas Tokara
+92,2023/05/13 17:39,29.9N,130.1E,2.3,Poco profundo,Mares cercanos de Islas Tokara
+93,2023/05/13 17:31,29.9N,130.1E,2.1,10km,Mares cercanos de Islas Tokara
+94,2023/05/13 17:28,30.0N,130.0E,2.9,10km,Mares cercanos de Islas Tokara
+95,2023/05/13 17:16,29.9N,130.0E,3.1,10km,Mares cercanos de Islas Tokara
+96,2023/05/13 17:03,29.9N,130.0E,2.0,10km,Mares cercanos de Islas Tokara
+97,2023/05/13 16:54,29.9N,130.0E,2.3,10km,Mares cercanos de Islas Tokara
+98,2023/05/13 16:48,35.5N,139.0E,2.8,20km,"Este, Fujigoko de Prefectura de Yamanashi"
+99,2023/05/13 16:35,29.9N,130.0E,2.4,10km,Mares cercanos de Islas Tokara
+100,2023/05/13 16:31,30.0N,130.0E,2.0,10km,Mares cercanos de Islas Tokara
+101,2023/05/13 16:20,29.9N,129.9E,2.8,20km,Mares cercanos de Islas Tokara
+102,2023/05/13 16:16,29.9N,130.0E,2.8,10km,Mares cercanos de Islas Tokara
+103,2023/05/13 16:14,29.9N,130.0E,3.4,20km,Mares cercanos de Islas Tokara
+104,2023/05/13 16:10,29.9N,130.0E,5.1,10km,Mares cercanos de Islas Tokara
+105,2023/05/13 05:25,37.6N,137.3E,3.1,10km,Alta mar de Península de Noto
+106,2023/05/13 00:37,30.0N,130.0E,2.5,10km,Mares cercanos de Islas Tokara
+107,2023/05/13 00:32,33.5N,132.4E,3.1,40km,"Nanyo, Prefectura de Ehime"
+108,2023/05/12 21:45,33.5N,132.4E,4.2,40km,"Nanyo, Prefectura de Ehime"
+109,2023/05/12 21:15,37.5N,137.3E,2.6,10km,"Región Noto, Prefectura de Ishikawa"
+110,2023/05/12 20:50,34.0N,134.2E,3.2,50km,Norte de Prefectura de Tokushima
+111,2023/05/12 17:57,37.5N,137.3E,2.7,10km,"Región Noto, Prefectura de Ishikawa"
+112,2023/05/12 17:40,37.5N,137.3E,3.2,10km,"Región Noto, Prefectura de Ishikawa"
+113,2023/05/12 15:34,29.9N,130.1E,2.4,10km,Mares cercanos de Islas Tokara
+114,2023/05/12 15:06,35.6N,139.3E,3.8,140km,Oeste de Prefectura de Kanagawa
+115,2023/05/12 12:32,40.0N,140.5E,2.8,10km,Interior norte de Prefectura de Akita
+116,2023/05/12 09:39,37.2N,140.1E,2.9,10km,"Nakadori, Prefectura de Fukushima"
+117,2023/05/12 06:26,37.5N,137.3E,2.9,10km,"Región Noto, Prefectura de Ishikawa"
+118,2023/05/12 05:50,37.5N,137.3E,2.4,10km,"Región Noto, Prefectura de Ishikawa"
+119,2023/05/11 22:50,24.3N,125.2E,4.6,30km,Mares cercanos de Isla Miyako
+120,2023/05/11 22:33,24.2N,125.2E,6.1,Poco profundo,Mares cercanos de Isla Miyako
+121,2023/05/11 19:48,36.4N,138.1E,2.1,Poco profundo,Centro de Prefectura de Nagano
+122,2023/05/11 19:41,35.9N,140.6E,3.8,40km,Nodeste de Prefectura de Chiba
+123,2023/05/11 18:56,27.4N,128.7E,3.2,40km,Mares cercanos de Isla principal de Okinawa
+124,2023/05/11 18:52,42.3N,143.0E,5.4,50km,Este de región Hidaka
+125,2023/05/11 15:39,37.4N,137.3E,2.3,10km,Bahía de Toyama
+126,2023/05/11 14:48,29.7N,129.8E,2.0,10km,Mares cercanos de Islas Tokara
+127,2023/05/11 12:45,29.9N,130.0E,2.5,10km,Mares cercanos de Islas Tokara
+128,2023/05/11 12:36,29.9N,130.0E,3.1,10km,Mares cercanos de Islas Tokara
+129,2023/05/11 12:13,29.9N,130.0E,3.0,20km,Mares cercanos de Islas Tokara
+130,2023/05/11 12:11,29.9N,130.0E,4.4,20km,Mares cercanos de Islas Tokara
+131,2023/05/11 06:58,37.6N,137.2E,3.4,10km,Alta mar de Península de Noto
+132,2023/05/11 04:16,35.2N,140.2E,5.4,40km,Sur de Prefectura de Chiba
+133,2023/05/11 01:02,15.6S,174.6W,7.6,210km,Pacífico Meridional
+134,2023/05/10 21:53,39.8N,141.9E,3.7,60km,Costa norte de Prefectura de Iwate
+135,2023/05/10 21:54,37.6N,137.3E,5.1,10km,Alta mar de Península de Noto
+136,2023/05/10 17:29,37.4N,137.3E,3.0,10km,Bahía de Toyama
+137,2023/05/10 11:21,35.7N,140.0E,4.1,70km,Noroeste de Prefectura de Chiba
+138,2023/05/10 07:14,37.6N,137.3E,5.0,10km,Alta mar de Península de Noto
+139,2023/05/10 03:02,39.9N,142.3E,4.2,30km,Alta mar de Prefectura de Iwate
+140,2023/05/10 02:59,37.5N,137.3E,3.4,10km,"Región Noto, Prefectura de Ishikawa"
+141,2023/05/10 02:40,32.8N,130.9E,2.9,10km,"Región Kumamoto, Prefectura de Kumamoto"
+142,2023/05/09 23:15,37.4N,137.3E,1.8,Poco profundo,Bahía de Toyama
+143,2023/05/09 21:32,39.6N,142.1E,3.8,50km,Alta mar de Prefectura de Iwate
+144,2023/05/09 13:22,40.9N,142.0E,3.7,60km,Alta mar este de Prefectura de Aomori
+145,2023/05/09 11:05,37.6N,137.3E,4.3,10km,Alta mar de Península de Noto
+146,2023/05/09 09:06,37.5N,137.3E,2.2,10km,"Región Noto, Prefectura de Ishikawa"
+147,2023/05/09 05:16,37.5N,137.3E,4.3,10km,"Región Noto, Prefectura de Ishikawa"
+148,2023/05/09 05:14,37.5N,137.3E,4.9,10km,"Región Noto, Prefectura de Ishikawa"
+149,2023/05/09 02:40,26.4N,127.4E,3.4,50km,Mares cercanos de Isla principal de Okinawa
+150,2023/05/09 02:15,37.5N,137.3E,2.9,10km,"Región Noto, Prefectura de Ishikawa"
+151,2023/05/08 21:43,37.3N,141.1E,3.4,30km,Alta mar de Prefectura de Fukushima
+152,2023/05/08 14:56,37.5N,137.3E,3.8,10km,"Región Noto, Prefectura de Ishikawa"
+153,2023/05/08 12:16,37.6N,137.3E,3.1,10km,Alta mar de Península de Noto
+154,2023/05/08 11:45,37.5N,137.3E,3.5,10km,"Región Noto, Prefectura de Ishikawa"
+155,2023/05/08 11:05,37.2N,140.0E,3.7,120km,"Nakadori, Prefectura de Fukushima"
+156,2023/05/08 09:49,37.4N,137.4E,1.9,10km,Bahía de Toyama
+157,2023/05/07 18:56,39.1N,140.5E,2.6,10km,Interior sur de Prefectura de Akita
+158,2023/05/07 14:35,37.5N,137.3E,2.6,10km,"Región Noto, Prefectura de Ishikawa"
+159,2023/05/07 14:24,37.5N,137.4E,2.1,10km,Alta mar de Península de Noto
+160,2023/05/07 14:11,37.6N,137.3E,2.9,10km,Alta mar de Península de Noto
+161,2023/05/07 13:37,37.5N,137.3E,2.5,10km,"Región Noto, Prefectura de Ishikawa"
+162,2023/05/07 11:44,37.6N,137.3E,3.5,10km,Alta mar de Península de Noto
+163,2023/05/07 03:19,37.5N,137.3E,2.8,10km,"Región Noto, Prefectura de Ishikawa"
+164,2023/05/07 03:04,37.5N,137.2E,3.3,10km,"Región Noto, Prefectura de Ishikawa"
+165,2023/05/07 01:10,37.5N,137.3E,3.1,10km,"Región Noto, Prefectura de Ishikawa"
+166,2023/05/06 23:54,37.6N,137.3E,4.1,10km,Alta mar de Península de Noto
+167,2023/05/06 20:14,37.6N,137.3E,2.9,10km,Alta mar de Península de Noto
+168,2023/05/06 19:56,37.5N,137.3E,2.7,10km,"Región Noto, Prefectura de Ishikawa"
+169,2023/05/06 12:59,28.5N,129.5E,3.0,10km,Mares cercanos de Islas de Amamioshima
+170,2023/05/06 08:48,37.5N,137.3E,3.0,10km,"Región Noto, Prefectura de Ishikawa"
+171,2023/05/06 06:48,37.5N,137.3E,3.4,10km,"Región Noto, Prefectura de Ishikawa"
+172,2023/05/06 05:31,37.5N,137.2E,2.7,10km,"Región Noto, Prefectura de Ishikawa"
+173,2023/05/06 04:44,37.5N,137.2E,3.1,10km,"Región Noto, Prefectura de Ishikawa"
+174,2023/05/06 02:47,41.5N,142.1E,5.5,70km,Alta mar este de Prefectura de Aomori
+175,2023/05/06 02:21,37.6N,137.3E,3.1,10km,Alta mar de Península de Noto
+176,2023/05/06 01:45,37.5N,137.3E,1.8,10km,"Región Noto, Prefectura de Ishikawa"
+177,2023/05/06 01:25,37.6N,137.3E,3.1,10km,Alta mar de Península de Noto
+178,2023/05/06 01:02,37.5N,137.3E,3.7,10km,"Región Noto, Prefectura de Ishikawa"
+179,2023/05/06 01:01,43.0N,146.3E,4.5,30km,Alta mar Sudeste de Península de Nemuro
+180,2023/05/06 00:09,37.6N,137.3E,3.1,10km,Alta mar de Península de Noto
+181,2023/05/05 23:42,37.5N,137.2E,2.6,10km,"Región Noto, Prefectura de Ishikawa"
+182,2023/05/05 23:26,37.5N,137.3E,4.0,10km,"Región Noto, Prefectura de Ishikawa"
+183,2023/05/05 23:18,37.5N,137.2E,4.5,10km,"Región Noto, Prefectura de Ishikawa"
+184,2023/05/05 23:07,37.5N,137.3E,3.7,10km,"Región Noto, Prefectura de Ishikawa"
+185,2023/05/05 22:51,37.5N,137.3E,3.9,10km,"Región Noto, Prefectura de Ishikawa"
+186,2023/05/05 22:48,37.5N,137.3E,3.3,10km,"Región Noto, Prefectura de Ishikawa"
+187,2023/05/05 22:46,37.5N,137.2E,3.6,10km,"Región Noto, Prefectura de Ishikawa"
+188,2023/05/05 22:44,37.5N,137.3E,2.9,10km,"Región Noto, Prefectura de Ishikawa"
+189,2023/05/05 22:34,37.5N,137.2E,3.6,10km,"Región Noto, Prefectura de Ishikawa"
+190,2023/05/05 22:34,37.5N,137.3E,4.1,10km,"Región Noto, Prefectura de Ishikawa"
+191,2023/05/05 22:26,37.5N,137.2E,4.2,10km,"Región Noto, Prefectura de Ishikawa"
+192,2023/05/05 22:05,37.5N,137.3E,3.5,10km,"Región Noto, Prefectura de Ishikawa"
+193,2023/05/05 22:08,37.5N,137.2E,3.8,10km,"Región Noto, Prefectura de Ishikawa"
+194,2023/05/05 22:03,37.5N,137.2E,4.1,10km,"Región Noto, Prefectura de Ishikawa"
+195,2023/05/05 22:02,37.5N,137.2E,3.8,10km,"Región Noto, Prefectura de Ishikawa"
+196,2023/05/05 21:58,37.5N,137.2E,5.8,10km,"Región Noto, Prefectura de Ishikawa"
+197,2023/05/05 21:38,34.9N,135.4E,2.7,10km,Sudeste de Prefectura de Hyogo
+198,2023/05/05 21:34,37.6N,137.3E,3.9,10km,Alta mar de Península de Noto
+199,2023/05/05 21:29,37.5N,137.3E,2.7,10km,"Región Noto, Prefectura de Ishikawa"
+200,2023/05/05 21:25,39.3N,142.1E,4.5,50km,Alta mar de Prefectura de Iwate
+201,2023/05/05 18:30,37.5N,137.3E,2.8,10km,"Región Noto, Prefectura de Ishikawa"
+202,2023/05/05 18:22,37.5N,137.3E,3.4,10km,"Región Noto, Prefectura de Ishikawa"
+203,2023/05/05 18:15,37.5N,137.3E,2.9,10km,"Región Noto, Prefectura de Ishikawa"
+204,2023/05/05 18:11,37.5N,137.3E,2.2,10km,"Región Noto, Prefectura de Ishikawa"
+205,2023/05/05 17:46,37.5N,137.3E,3.5,10km,"Región Noto, Prefectura de Ishikawa"
+206,2023/05/05 17:38,37.5N,137.2E,4.3,10km,"Región Noto, Prefectura de Ishikawa"
+207,2023/05/05 17:31,37.5N,137.3E,2.4,10km,"Región Noto, Prefectura de Ishikawa"
+208,2023/05/05 17:01,37.6N,137.3E,3.6,10km,Alta mar de Península de Noto
+209,2023/05/05 16:39,37.5N,137.3E,3.0,10km,"Región Noto, Prefectura de Ishikawa"
+210,2023/05/05 16:24,37.5N,137.3E,3.4,Poco profundo,"Región Noto, Prefectura de Ishikawa"
+211,2023/05/05 16:11,37.5N,137.3E,3.7,10km,"Región Noto, Prefectura de Ishikawa"
+212,2023/05/05 16:07,37.5N,137.2E,3.0,10km,"Región Noto, Prefectura de Ishikawa"
+213,2023/05/05 15:58,37.5N,137.4E,2.5,10km,Alta mar de Península de Noto
+214,2023/05/05 15:48,37.5N,137.3E,3.0,10km,"Región Noto, Prefectura de Ishikawa"
+215,2023/05/05 15:41,37.5N,137.3E,3.3,10km,"Región Noto, Prefectura de Ishikawa"
+216,2023/05/05 15:32,37.6N,137.4E,2.4,10km,Alta mar de Península de Noto
+217,2023/05/05 15:28,37.5N,137.0E,3.2,10km,Alta mar de Península de Noto
+218,2023/05/05 15:27,37.5N,137.3E,2.6,10km,"Región Noto, Prefectura de Ishikawa"
+219,2023/05/05 15:14,37.5N,137.3E,3.6,10km,"Región Noto, Prefectura de Ishikawa"
+220,2023/05/05 15:06,37.6N,137.3E,3.9,10km,Alta mar de Península de Noto
+221,2023/05/05 14:57,37.6N,137.3E,3.6,10km,Alta mar de Península de Noto
+222,2023/05/05 14:53,37.5N,137.2E,4.7,10km,"Región Noto, Prefectura de Ishikawa"
+223,2023/05/05 14:51,37.5N,137.3E,3.8,10km,"Región Noto, Prefectura de Ishikawa"
+224,2023/05/05 14:47,37.5N,137.3E,4.0,10km,"Región Noto, Prefectura de Ishikawa"
+225,2023/05/05 14:42,37.5N,137.3E,6.3,10km,"Región Noto, Prefectura de Ishikawa"
+226,2023/05/05 13:47,36.8N,140.6E,3.3,10km,Norte de Prefectura de Ibaraki
+227,2023/05/05 11:24,34.1N,135.4E,2.4,10km,Norte de Prefectura de Wakayama
+228,2023/05/04 23:01,37.3N,137.8E,3.8,20km,Alta mar de Jyo-chuetsu de Prefectura de Niigata
+229,2023/05/04 19:51,34.2N,135.3E,2.6,Poco profundo,Norte de Prefectura de Wakayama
+230,2023/05/03 05:34,36.6N,141.0E,4.1,40km,Alta mar de Prefectura de Ibaraki
+231,2023/05/03 04:26,29.9N,130.0E,2.2,10km,Mares cercanos de Islas Tokara
+232,2023/05/03 01:12,37.1N,139.4E,2.3,10km,"Aizu, Prefectura de Fukushima"
+233,2023/05/02 12:13,32.6N,132.0E,2.8,20km,Mar de Hyuga
+234,2023/05/02 07:48,38.9N,141.8E,3.1,80km,Alta mar de Prefectura de Miyagi
+235,2023/05/02 03:56,37.8N,141.7E,4.3,60km,Alta mar de Prefectura de Fukushima
+236,2023/05/02 00:20,37.8N,141.8E,4.0,60km,Alta mar de Prefectura de Fukushima
+237,2023/05/01 17:56,29.9N,130.0E,2.4,10km,Mares cercanos de Islas Tokara
+238,2023/05/01 16:59,26.1N,128.7E,5.4,10km,Mares cercanos de Isla principal de Okinawa
+239,2023/05/01 16:09,29.8N,130.1E,2.7,Poco profundo,Mares cercanos de Islas Tokara
+240,2023/05/01 15:35,37.5N,137.3E,2.7,10km,"Región Noto, Prefectura de Ishikawa"
+241,2023/05/01 13:43,26.6N,127.9E,2.8,20km,Mares cercanos de Isla principal de Okinawa
+242,2023/05/01 13:02,25.9N,128.6E,5.0,10km,Mares cercanos de Isla principal de Okinawa
+243,2023/05/01 12:56,29.9N,130.0E,2.3,10km,Mares cercanos de Islas Tokara
+244,2023/05/01 12:56,37.7N,141.6E,4.1,60km,Alta mar de Prefectura de Fukushima
+245,2023/05/01 12:51,26.1N,128.9E,4.4,10km,Mares cercanos de Isla principal de Okinawa
+246,2023/05/01 12:22,26.0N,128.8E,6.2,10km,Mares cercanos de Isla principal de Okinawa
+247,2023/05/01 11:22,26.0N,128.7E,5.2,10km,Mares cercanos de Isla principal de Okinawa
+248,2023/05/01 08:58,42.0N,142.4E,4.3,60km,Alta mar de Uraga
+249,2023/05/01 08:51,36.2N,141.2E,4.3,10km,Alta mar de Prefectura de Ibaraki
+250,2023/05/01 07:15,34.0N,134.2E,3.4,50km,Norte de Prefectura de Tokushima
+251,2023/05/01 05:04,36.4N,140.8E,4.2,50km,Alta mar de Prefectura de Ibaraki
+252,2023/05/01 04:58,27.0N,142.6E,3.8,70km,Mares cercanos de Isla Chichishima
+253,2023/05/01 01:37,27.6N,128.8E,3.3,10km,Mares cercanos de Islas de Amamioshima
+254,2023/04/30 23:48,29.9N,130.0E,2.4,Poco profundo,Mares cercanos de Islas Tokara
+255,2023/04/30 21:21,35.6N,141.0E,4.2,40km,Alta mar este de Prefectura de Chiba
+256,2023/04/30 20:36,37.1N,139.3E,2.3,Poco profundo,"Aizu, Prefectura de Fukushima"
+257,2023/04/30 18:52,35.6N,137.2E,3.7,Poco profundo,"Este de Mino, Prefectura de Gifu"
+258,2023/04/30 06:23,37.1N,139.4E,2.2,10km,"Aizu, Prefectura de Fukushima"
+259,2023/04/30 01:19,37.5N,137.3E,3.0,10km,"Región Noto, Prefectura de Ishikawa"
+260,2023/04/30 00:49,26.0N,128.8E,4.5,10km,Mares cercanos de Isla principal de Okinawa
+261,2023/04/29 09:16,32.4N,129.9E,3.5,10km,Mar de Amakusa
+262,2023/04/29 04:54,34.0N,133.9E,3.1,40km,Norte de Prefectura de Tokushima
+263,2023/04/29 02:16,32.4N,129.9E,3.6,10km,Mar de Amakusa
+264,2023/04/28 16:46,42.0N,142.6E,4.1,70km,Alta mar de Uraga
+265,2023/04/28 13:49,36.5N,139.4E,2.4,10km,Sur de Prefectura de Gunma
+266,2023/04/28 09:38,41.5N,140.2E,3.0,10km,Oeste de región Oshima
+267,2023/04/28 07:09,26.4N,128.3E,4.3,40km,Mares cercanos de Isla principal de Okinawa
+268,2023/04/27 22:43,37.0N,141.2E,4.2,50km,Alta mar de Prefectura de Fukushima
+269,2023/04/27 16:43,26.1N,128.7E,5.4,10km,Mares cercanos de Isla principal de Okinawa
+270,2023/04/27 10:40,41.6N,142.0E,3.6,50km,Alta mar de Uraga
+271,2023/04/27 09:40,36.1N,140.8E,3.1,20km,Alta mar de Prefectura de Ibaraki
+272,2023/04/27 04:17,36.1N,140.1E,3.5,50km,Sur de Prefectura de Ibaraki
+273,2023/04/26 16:52,42.1N,142.5E,3.9,70km,Alta mar de Uraga
+274,2023/04/26 02:49,37.7N,141.7E,4.3,60km,Alta mar de Prefectura de Fukushima
+275,2023/04/25 22:32,40.0N,142.0E,4.1,50km,Alta mar de Prefectura de Iwate
+276,2023/04/25 21:59,34.0N,135.3E,2.9,10km,Norte de Prefectura de Wakayama
+277,2023/04/25 14:32,37.0N,139.4E,2.5,10km,"Aizu, Prefectura de Fukushima"
+278,2023/04/25 08:31,32.3N,132.2E,2.6,10km,Mar de Hyuga
+279,2023/04/25 05:00,00.8S,098.5E,7.1,La profundidad no está confirmada,Carca de Indonesia
+280,2023/04/25 00:29,35.4N,136.9E,2.6,10km,"Centro-Oeste de Mino, Prefectura de Gifu"
+281,2023/04/24 17:36,32.8N,130.6E,2.7,Poco profundo,Mar de Ariake
+282,2023/04/24 11:35,34.0N,135.3E,2.6,10km,Norte de Prefectura de Wakayama
+283,2023/04/24 09:42,30.4S,176.7W,7.3,La profundidad no está confirmada,Pacífico Meridional
+284,2023/04/24 06:33,26.4N,141.9E,4.3,40km,Mares cercanos de Isla Chichishima
+285,2023/04/24 06:22,33.5N,132.7E,3.6,40km,"Nanyo, Prefectura de Ehime"
+286,2023/04/24 01:09,36.7N,141.1E,3.5,50km,Alta mar de Prefectura de Ibaraki
+287,2023/04/24 00:42,37.9N,141.7E,3.8,70km,Alta mar de Prefectura de Miyagi
+288,2023/04/23 23:45,37.0N,139.3E,1.8,Poco profundo,"Aizu, Prefectura de Fukushima"
+289,2023/04/23 21:45,34.0N,135.3E,2.8,10km,Norte de Prefectura de Wakayama
+290,2023/04/23 12:29,34.9N,134.0E,2.7,10km,Norte de Prefectura de Okayama
+291,2023/04/22 20:54,37.5N,137.3E,2.5,10km,"Región Noto, Prefectura de Ishikawa"
+292,2023/04/22 19:42,41.8N,141.2E,2.4,Poco profundo,Alta mar de Tomakomai

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Datos recientes</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        table {
+            width: 100%;
+            margin-bottom: 1rem;
+            color: #212529;
+        }
+        th {
+            background-color: #f8f9fa;
+            color: #495057;
+            border-color: #dee2e6;
+            text-align: center;
+            vertical-align: middle;
+        }
+        td {
+            border-color: #dee2e6;
+            text-align: center;
+            vertical-align: middle;
+        }
+        .table-container {
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container table-container">
+        <h1>Datos más recientes</h1>
+        {% for tabla, resultados in datos_recientes.items() %}
+        <h2>{{ tabla }}</h2>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>ID Sismo</th>
+                    <th>ID País</th>
+                    <th>Magnitud</th>
+                    <th>Lugar</th>
+                    <th>Fecha y hora</th>
+                    <th>Tsunami</th>
+                    <th>Longitud</th>
+                    <th>Latitud</th>
+                    <th>Profundidad</th>
+                    <th>Peligro</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for fila in resultados %}
+                <tr>
+                    <td>{{ fila[0] }}</td>
+                    <td>{{ fila[1] }}</td>
+                    <td>{{ fila[2] }}</td>
+                    <td>{{ fila[3] }}</td>
+                    <td>{{ fila[4] }}</td>
+                    <td>{{ fila[5] }}</td>
+                    <td>{{ fila[6] }}</td>
+                    <td>{{ fila[7] }}</td>
+                    <td>{{ fila[8] }}</td>
+                    <td>{{ fila[9] }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        {% endfor %}
+    </div>
+</body>
+</html>
